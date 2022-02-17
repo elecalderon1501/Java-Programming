@@ -95,6 +95,8 @@ public class Programa1 {
 		System.out.println("----------Listado Notas y Alumnos-----------");
 		System.out.println(Arrays.toString(notas));
 		System.out.println(Arrays.toString(nombre));
+		
+		consola.close();
 	}
 
 }
